@@ -1,0 +1,129 @@
+body {
+	background-color: #3B0B0B;
+}
+img {
+   width:250px;
+   height:150px;
+   margin-left:25px;
+}
+.img1 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -350px;
+   	margin-left:200px;
+}
+.img2 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -600px;
+   	margin-left:-70px;
+}
+.img3 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -600px;
+   	margin-left:-540px;
+}
+.img4 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -600px;
+   	margin-left:-500px;
+}
+.img5 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -600px;
+   	margin-left:650px;
+}
+.img6 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -850px;
+   	margin-left:650px;
+}
+.img7 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -850px;
+   	margin-left:-500px;
+}
+.img8 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -1100px;
+   	margin-left:-100px;
+}
+.img9 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -1100px;
+   	margin-left:50px;
+}
+.img10 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -1100px;
+   	margin-left:-800px;
+}
+.img11 {
+	width:225px;
+   	height:225px;
+   	margin-top:0px;
+   	margin-bottom: -1350px;
+   	margin-left:75px;
+}
+div {
+	border-radius: 5px;
+	border: 2px solid #000000;
+	background-color: #2E2E2E;
+	height: 50px;
+	width: 120px;
+	margin-left: 300px;
+	text-align: center;
+}
+.right {
+	position: absolute;
+	left: 0px;
+
+}
+.right1 {
+	position: absolute;
+	left: 150px;
+}
+.right2 {
+	position: absolute;
+	left: 300px;
+}
+.right3{
+	position: absolute;
+	left: 450px;
+}
+.right4{
+	position: absolute;
+	right: -150px;
+	margin-top:-51px;
+}
+.sponsors {
+	border-radius: 5px;
+	border: 2px #3B0B0B;
+	background-color: white;
+	height: 150px;
+	width: 1000px;
+	margin-left: -550px;
+	margin-top: 1300px; 
+	text-align: center;
+}
+span{
+	color: black;
+}

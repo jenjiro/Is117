@@ -1,0 +1,99 @@
+body {
+	background-color: #3B0B0B;
+}
+img {
+   width:250px;
+   height:150px;
+   margin-left:25px;
+}
+div {
+	border-radius: 5px;
+	border: 2px solid #000000;
+	background-color: #2E2E2E;
+	height: 50px;
+	width: 120px;
+	margin-left: 300px;
+	margin-top:-50px;
+	text-align: center;
+}
+.calendar {
+	width:550px;
+   	height:450px;
+   	margin-top:121px;
+   	margin-bottom: -600px;
+   	margin-left:-250px;
+}
+.img {
+	width:350px;
+   	height:250px;
+   	margin-top:0px;
+   	margin-bottom: -400px;
+   	margin-left:30px;
+}
+.img1 {
+	width:350px;
+   	height:250px;
+   	margin-top:0px;
+   	margin-bottom: -650px;
+   	margin-left:615px;
+}
+.img2 {
+	width:520px;
+   	height:350px;
+   	margin-top:0px;
+   	margin-bottom: -970px;
+   	margin-left:30px;
+}
+.img3 {
+	width:520px;
+   	height:350px;
+   	margin-top:0px;
+   	margin-bottom: -1350px;
+   	margin-left:-525px;
+}
+.img4 {
+	width:520px;
+   	height:350px;
+   	margin-top:0px;
+   	margin-bottom: -1335px;
+   	margin-left:700px;
+}
+.right {
+	position: absolute;
+	left: 0px;
+
+}
+.right1 {
+	position: absolute;
+	left: 150px;
+}
+.right2 {
+	position: absolute;
+	left: 300px;
+}
+.right3{
+	position: absolute;
+	left: 450px;
+}
+.right4{
+	position: absolute;
+	right: -150px;
+	margin-top:-51px;
+}
+.sponsors {
+	border-radius: 5px;
+	border: 2px #3B0B0B;
+	background-color: white;
+	height: 150px;
+	width: 1000px;
+	margin-left: -550px;
+	margin-top: 500px; 
+	text-align: center;
+}
+span{
+	color: black;
+}
+h4{
+	margin-top: 600px;
+	margin-right: -200px;
+}
